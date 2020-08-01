@@ -1,0 +1,9 @@
+[submodule "gf-tools"]
+	path = gf-tools
+	url = https://github.com/GamedevFramework/gf-tools.git
+[submodule "gf-box2d"]
+	path = gf-box2d
+	url = https://github.com/GamedevFramework/gf-box2d.git
+[submodule "gf-imgui"]
+	path = gf-imgui
+	url = https://github.com/GamedevFramework/gf-imgui.git
