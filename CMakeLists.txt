@@ -7,3 +7,6 @@ project(GF_META_BUILD
 add_subdirectory(gf-tools)
 add_subdirectory(gf-box2d)
 add_subdirectory(gf-imgui)
+
+# games
+add_subdirectory(game-HOME)

@@ -7,3 +7,6 @@
 [submodule "gf-imgui"]
 	path = gf-imgui
 	url = https://github.com/GamedevFramework/gf-imgui.git
+[submodule "game-HOME"]
+	path = game-HOME
+	url = https://github.com/GamedevFramework/game-HOME.git
