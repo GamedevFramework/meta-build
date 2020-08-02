@@ -19,3 +19,6 @@
 [submodule "game-lux"]
 	path = game-lux
 	url = https://github.com/GamedevFramework/game-lux.git
+[submodule "game-bank_robbery_for_dummies"]
+	path = game-bank_robbery_for_dummies
+	url = https://github.com/GamedevFramework/game-bank_robbery_for_dummies.git

@@ -9,6 +9,7 @@ add_subdirectory(gf-box2d)
 add_subdirectory(gf-imgui)
 
 # games
+add_subdirectory(game-bank_robbery_for_dummies)
 add_subdirectory(game-HOME)
 add_subdirectory(game-huaca)
 add_subdirectory(game-islands)
