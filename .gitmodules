@@ -10,3 +10,6 @@
 [submodule "game-HOME"]
 	path = game-HOME
 	url = https://github.com/GamedevFramework/game-HOME.git
+[submodule "game-huaca"]
+	path = game-huaca
+	url = https://github.com/GamedevFramework/game-huaca.git
