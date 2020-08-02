@@ -13,3 +13,9 @@
 [submodule "game-huaca"]
 	path = game-huaca
 	url = https://github.com/GamedevFramework/game-huaca.git
+[submodule "game-islands"]
+	path = game-islands
+	url = https://github.com/GamedevFramework/game-islands.git
+[submodule "game-lux"]
+	path = game-lux
+	url = https://github.com/GamedevFramework/game-lux.git

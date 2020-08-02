@@ -11,3 +11,5 @@ add_subdirectory(gf-imgui)
 # games
 add_subdirectory(game-HOME)
 add_subdirectory(game-huaca)
+add_subdirectory(game-islands)
+add_subdirectory(game-lux)
