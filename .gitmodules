@@ -22,3 +22,6 @@
 [submodule "game-bank_robbery_for_dummies"]
 	path = game-bank_robbery_for_dummies
 	url = https://github.com/GamedevFramework/game-bank_robbery_for_dummies.git
+[submodule "gf-chipmunk"]
+	path = gf-chipmunk
+	url = https://github.com/GamedevFramework/gf-chipmunk.git
