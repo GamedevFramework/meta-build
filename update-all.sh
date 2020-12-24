@@ -7,5 +7,6 @@ do
 	echo "Updating '${M}'..."
 	cd "${M}"
 	git pull
+	git submodule update --recursive
 	cd ..
 done
