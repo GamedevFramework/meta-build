@@ -6,7 +6,7 @@ for M in ${MODULES}
 do
 	echo "Updating '${M}'..."
 	cd "${M}"
-	git pull
+	git pull origin master
 	git submodule update --recursive
 	cd ..
 done
